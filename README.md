@@ -13,3 +13,6 @@ Technologies Used:
 1. HTML: Structured the elements for the calculator layout.
 2. CSS: Styled the calculator for an aesthetically pleasing interface.
 3. JavaScript: Implemented the calculator's functionality, handling user inputs and performing calculations.
+
+![Screenshot 2023-12-27 093432](https://github.com/adarshkumar06/calculator/assets/154667153/34137cf2-a33b-44c5-9c18-fabace0671df)
+
